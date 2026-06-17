@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none">
+  <!-- briefcase body -->
+  <rect x="6" y="20" width="52" height="34" rx="6" fill="#2563EB"/>
+  <!-- lid handle -->
+  <path d="M24 20v-4a4 4 0 0 1 4-4h8a4 4 0 0 1 4 4v4" stroke="#1E40AF" stroke-width="4" stroke-linecap="round"/>
+  <!-- center latch -->
+  <rect x="28" y="33" width="8" height="8" rx="2" fill="#1E40AF"/>
+  <!-- divider band -->
+  <rect x="6" y="31" width="52" height="6" fill="#1D4ED8"/>
+  <!-- search lens (the find-a-job hint) -->
+  <circle cx="46" cy="46" r="6.5" fill="none" stroke="#DBEAFE" stroke-width="3"/>
+  <line x1="50.5" y1="50.5" x2="55" y2="55" stroke="#DBEAFE" stroke-width="3" stroke-linecap="round"/>
+</svg>
